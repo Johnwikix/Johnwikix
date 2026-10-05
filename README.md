@@ -71,7 +71,7 @@ Right now, I'm pouring my free time into [**Original Sound HQ Player**](https://
 
 ### 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-906847109@qq.com-D14836?style=flat&logo=qq&logoColor=white)](mailto:906847109@qq.com)
+[![Email](https://img.shields.io/badge/Email-dannypan9709@foxmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dannypan9709@foxmail.com)
 [![Website](https://img.shields.io/badge/Player_Website-D9232E?style=flat&logo=googlechrome&logoColor=white)](https://johnwikix.github.io/original-sound-player-page/)
 
 ---
